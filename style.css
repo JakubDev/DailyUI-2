@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F7F7F7;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card{
+    opacity: 0.9;
+}
+
+.left{
+    width: 200px;
+    height: 400px;
+    background-color: white;
+    float: left;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.right{
+    width: 500px;
+    height: 400px;
+    background-color: #04395e;
+    float: left;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px; 
+    box-shadow: 10px 10px 5px grey;
+}
+
+.text{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 13px;
+}
+
+.number{
+    text-align: center;
+    color: #2F6690;
+    font-size: 18px
+}
+hr{
+    margin-top: 70px;
+    opacity: 0.5;
+    size: 2;
+    margin-bottom: 7%;
+}
+
+.size{
+    font-size: 17px;
+}
+
+.master{
+    margin-top: 5%;
+    margin-left: 10%;
+    opacity: 0.5;
+    color: #F7F7F7;
+}
+
+img{
+    float: right;
+    margin-right: 10%;
+    margin-top: -8.5%;
+}
+
+.line {
+    margin-top: 7%;
+    color: #F7F7F7;
+    opacity: 0.1;
+}
+input{
+    width: 50%;
+    height: 20px;
+    color: black;
+    opacity: 0.1;
+    text-align: center;
+}
+input[type=text]:focus {
+    border: 5px solid white;
+    opacity: 0.3;
+}
+
+input.ok{
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 80%;
+}
+
+input.okk{
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 80%;
+}
+input.okkk{
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 30%;
+}
+
+input.okkkk{
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 30%;
+    margin-left:18%;
+}
+
+.lin{
+    margin-top: 13%;
+}
+
+.last{
+    margin-top: -3%;
+}
+
+.fine{
+    float: right;
+    margin-top: -7.5%;
+    margin-right: 10%;
+    font-size: 20px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
